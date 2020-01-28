@@ -1,0 +1,4 @@
+baseURL = "http://chenwang.ch/"
+languageCode = "en-us"
+title = "My Work website"
+theme = "academic"
