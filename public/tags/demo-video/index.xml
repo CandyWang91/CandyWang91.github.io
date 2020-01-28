@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo Video | Chen Wang</title>
+    <link>http://chenwang.ch/tags/demo-video/</link>
+      <atom:link href="http://chenwang.ch/tags/demo-video/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demo Video</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://chenwang.ch/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Demo Video</title>
+      <link>http://chenwang.ch/tags/demo-video/</link>
+    </image>
+    
+    <item>
+      <title>Managing First Impressions for a more Engaging Virtual Agent</title>
+      <link>http://chenwang.ch/project/external-project/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://chenwang.ch/project/external-project/</guid>
+      <description>&lt;p&gt;In any encounter the first moments are critical and the impressions that we form of others matter. These impressions tend to last and affect the interaction experience. The goal of this project is to build an anthropomorphic virtual character (ECA - Embodied Conversational Agent) able to make the best possible first impression on a user, thus effectively engaging him or her in an interaction. This goal will be realized by building an affective loop which ties the behavior of the ECA to the actual emotional reactions of the user facing it in real-time. This will give rise to an ECA capable of managing their first impressions on users. We focus on the identification and modeling of the nonverbal behavior, towards exhibiting, managing and maintaining impressions of two important socio-cognitive dimensions in the first minutes of interaction with a user. These dimensions are warmth (i.e. being friendly, agreeable, engaging and approachable) and competence (i.e. appear skilled, knowledgeable on a given topic). The IMPRESSIONS project has humanistic and computational components. The analysis and modeling of nonverbal communicative behavior is drawn from existing literature in sociology and psychology, as well as from new data gathered from controlled user studies. The computational component implements those models in a virtual agent, resulting in believable and effective social behaviors. Furthermore, user’s behaviors and physiological signals will help the agent managing the desired impressions. The analysis of multimodal signals is valuable to assess the user’s affective states, to determine the quality of the interaction, and, ultimately, for assessing the impressions that the user has formed of the agent. Results undergo a thorough user evaluation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
