@@ -24,6 +24,7 @@ interests:
 - Artificial Intelligence
 - Multimodal Interaction
 - Physiological Signal Processing
+- Human-computer interaction
 
 education:
   courses:
@@ -74,5 +75,5 @@ user_groups:
 ---
 
 Chen Wang is a Ph.D candidate of affective computing at the Computer Vision and Multimedia Lab. 
-Her research focuses on how to recognise human impressions automatically by computers from nonverbal cues, such as facial expressions, gestures and physiological signals.
+Her research focuses on how to recognise human impressions automatically from non-verbal cues, such as facial expressions, gestures and physiological signals.
 She is particularly interested in the use of multimodal and physiological measures for improving human-human and human-computer interactions.
