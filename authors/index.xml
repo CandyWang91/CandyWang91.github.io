@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Chen Wang</title>
+    <link>http://chenwang.ch/authors/</link>
+      <atom:link href="http://chenwang.ch/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://chenwang.ch/images/icon_hu857003d21b14b20d5a37c407270e356f_950145_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>http://chenwang.ch/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>http://chenwang.ch/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://chenwang.ch/authors/admin/</guid>
+      <description>&lt;p&gt;Chen Wang is a Ph.D candidate of affective computing at the Computer Vision and Multimedia Lab.
+Her research focuses on how to recognise human impressions automatically from non-verbal cues, such as facial expressions, gestures and physiological signals.
+She is particularly interested in the use of multimodal and physiological measures for improving human-human and human-computer interactions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phil Lopes, Thierry Pun, Guillaume Chanel</title>
+      <link>http://chenwang.ch/authors/phil-lopes-thierry-pun-guillaume-chanel/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://chenwang.ch/authors/phil-lopes-thierry-pun-guillaume-chanel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thierry Pun and Guilaume Chanel</title>
+      <link>http://chenwang.ch/authors/thierry-pun-and-guilaume-chanel/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://chenwang.ch/authors/thierry-pun-and-guilaume-chanel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

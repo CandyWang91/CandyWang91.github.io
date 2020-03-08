@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Chen Wang</title>
+    <link>http://chenwang.ch/publication/</link>
+      <atom:link href="http://chenwang.ch/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://chenwang.ch/images/icon_hu857003d21b14b20d5a37c407270e356f_950145_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>http://chenwang.ch/publication/</link>
+    </image>
+    
+    <item>
+      <title>Towards a better gold standard: Denoising and modelling continuous emotion annotations based on feature agglomeration and outlier regularisation</title>
+      <link>http://chenwang.ch/publication/conference-paper/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://chenwang.ch/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Comparative Survey of Methods for Remote Heart Rate Detection From Frontal Face Videos</title>
+      <link>http://chenwang.ch/publication/journal-article/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://chenwang.ch/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

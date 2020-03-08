@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remote Physiological Signal | Chen Wang</title>
+    <link>http://chenwang.ch/tags/remote-physiological-signal/</link>
+      <atom:link href="http://chenwang.ch/tags/remote-physiological-signal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Remote Physiological Signal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://chenwang.ch/images/icon_hu857003d21b14b20d5a37c407270e356f_950145_512x512_fill_lanczos_center_2.png</url>
+      <title>Remote Physiological Signal</title>
+      <link>http://chenwang.ch/tags/remote-physiological-signal/</link>
+    </image>
+    
+    <item>
+      <title>Remote Heart Rate Detection from Frontal Face Videos</title>
+      <link>http://chenwang.ch/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://chenwang.ch/project/internal-project/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; overflow: hidden;&#34;&gt;
+&lt;iframe style=&#34;position: absolute; width: 100%; height: 100%;&#34;
+src=&#34;https://www.youtube.com/watch?v=N-8xgUSrLow/{{ index .Params 0 }}&#34; allowfullscreen frameborder=&#34;0&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
